@@ -4,6 +4,11 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 
+/**
+ * v2
+ * @author mike
+ *
+ */
 public class MainActivity extends Activity {
 
 	@Override
